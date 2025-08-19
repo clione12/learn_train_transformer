@@ -1,1 +1,4 @@
 *.bin
+*.zip
+*.json
+*.model
